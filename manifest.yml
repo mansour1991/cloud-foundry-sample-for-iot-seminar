@@ -1,0 +1,6 @@
+---
+applications:
+- name: iot-seminar-groupxxx
+  memory: 128M
+  services:
+   - IoT-Seminar
