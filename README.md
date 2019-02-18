@@ -2,7 +2,7 @@ Python app to demonstrate using inputs and outputs on a Raspberry Pi
 ================================================================================
 
 With this Simple application, you can send commands to a respberry pi to turn a light on or off.
-Purpose: IoT seminart :)
+Purpose: IoT seminar :)
 
 inspired from: https://github.com/IBM-Bluemix/python-iot-raspberry-pi.git 
 
